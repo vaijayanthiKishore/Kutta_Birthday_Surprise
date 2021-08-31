@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(BirthdayImage.jpg);
+    background-size:cover;
+    background-position: center;
+}
+
+#img_1{
+width: 400px;
+height: 550px;
+border: 5px solid pink;
+border-radius: 20px;
+margin-top: 50px;
+}
